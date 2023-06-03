@@ -1,1 +1,1 @@
-# Articles-Relevancy-Extraction-GPT-3.5-Turbo
+# Article Relevancy Extraction Using OpenAI GPT3.5 Turbo API
