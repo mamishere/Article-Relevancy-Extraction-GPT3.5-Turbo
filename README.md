@@ -10,9 +10,9 @@ Systematic reviews require precise and accurate screening of titles and abstract
 
 - **Relevancy Extraction Notebook.ipynb**: This Jupyter notebook contains the complete implementation of the relevancy extraction process as described in the paper. It includes steps for data preprocessing, prompt engineering for GPT-3.5, and the evaluation of the model's performance.
   
-- **Data/**: Contains the dataset used for the study, including titles, abstracts, and metadata of research papers related to "Light Therapy in Insomnia Disorder."
+- **Data**: Contains the dataset used for the study, including titles, abstracts, and metadata of research papers related to "Light Therapy in Insomnia Disorder."
 
-- **Scripts/**: Any additional Python scripts used in the project are stored here.
+- **Scripts**: Any additional Python scripts used in the project are stored here.
 
 ## Methodology
 
@@ -31,4 +31,5 @@ The performance of GPT-3.5 Turbo was compared with that of human researchers usi
 ## Results
 
 The study found that while GPT-3.5 Turbo is a valuable tool for assisting in title and abstract screening, it is not yet a replacement for human screeners. The model is particularly effective when guided by well-crafted prompts but should be used in conjunction with human judgment to ensure comprehensive results.
+
 
